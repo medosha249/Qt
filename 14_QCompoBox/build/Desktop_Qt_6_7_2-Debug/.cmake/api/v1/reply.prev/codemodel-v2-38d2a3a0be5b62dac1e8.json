@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8ac70c4ce033d294741d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "14_QCompoBox",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "14_QCompoBox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-14_QCompoBox-Debug-3e6c4a33f570068d2c9a.json",
+					"name" : "14_QCompoBox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "14_QCompoBox_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-14_QCompoBox_autogen-Debug-766161e2a5898bc02e4a.json",
+					"name" : "14_QCompoBox_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "14_QCompoBox_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-14_QCompoBox_autogen_timestamp_deps-Debug-c58f8f5bb7653994560c.json",
+					"name" : "14_QCompoBox_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alashkar/Desktop/Github/Qt/14_QCompoBox/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/alashkar/Desktop/Github/Qt/14_QCompoBox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

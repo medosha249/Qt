@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_11_CheckBox_FILE /home/alashkar/Desktop/Github/Qt/11_CheckBox/build/Desktop_Qt_6_7_2-Debug/11_CheckBox)
+set(__QT_DEPLOY_TARGET_11_CheckBox_TYPE EXECUTABLE)

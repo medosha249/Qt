@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_10_HtmlDemo_FILE /home/alashkar/Desktop/Github/Qt/10_HtmlDemo/build/Desktop_Qt_6_7_2-Debug/10_HtmlDemo)
+set(__QT_DEPLOY_TARGET_10_HtmlDemo_TYPE EXECUTABLE)

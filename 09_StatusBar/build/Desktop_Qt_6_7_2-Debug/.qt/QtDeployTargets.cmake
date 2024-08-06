@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_09_StatusBar_FILE /home/alashkar/Desktop/Github/Qt/09_StatusBar/build/Desktop_Qt_6_7_2-Debug/09_StatusBar)
+set(__QT_DEPLOY_TARGET_09_StatusBar_TYPE EXECUTABLE)

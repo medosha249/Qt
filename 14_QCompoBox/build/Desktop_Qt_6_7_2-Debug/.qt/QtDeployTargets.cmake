@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_14_QCompoBox_FILE /home/alashkar/Desktop/Github/Qt/14_QCompoBox/build/Desktop_Qt_6_7_2-Debug/14_QCompoBox)
+set(__QT_DEPLOY_TARGET_14_QCompoBox_TYPE EXECUTABLE)

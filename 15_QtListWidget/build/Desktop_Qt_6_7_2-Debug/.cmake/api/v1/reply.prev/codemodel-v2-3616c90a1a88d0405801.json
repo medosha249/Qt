@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b3fd7b853f18cba9cf6b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "15_QtListWidget",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "15_QtListWidget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-15_QtListWidget-Debug-9180b266924f0255d044.json",
+					"name" : "15_QtListWidget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "15_QtListWidget_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-15_QtListWidget_autogen-Debug-6cd53a0dd6dd682afed6.json",
+					"name" : "15_QtListWidget_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "15_QtListWidget_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-15_QtListWidget_autogen_timestamp_deps-Debug-25bf8478cba06a934743.json",
+					"name" : "15_QtListWidget_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alashkar/Desktop/Github/Qt/15_QtListWidget/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/alashkar/Desktop/Github/Qt/15_QtListWidget"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

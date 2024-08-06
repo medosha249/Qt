@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>Close.png</file>
+        <file>file.jpg</file>
+        <file>new.png</file>
+    </qresource>
+</RCC>

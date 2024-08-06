@@ -1,0 +1,18 @@
+# ninja log v6
+5	24	1722963179429051951	10_HtmlDemo_autogen/timestamp	52cd78b73502131f
+5	24	1722963179429051951	/home/alashkar/Desktop/Github/Qt/10_HtmlDemo/build/Desktop_Qt_6_7_2-Debug/10_HtmlDemo_autogen/mocs_compilation.cpp	52cd78b73502131f
+5	24	1722963179429051951	10_HtmlDemo_autogen/mocs_compilation.cpp	52cd78b73502131f
+5	24	1722963179429051951	/home/alashkar/Desktop/Github/Qt/10_HtmlDemo/build/Desktop_Qt_6_7_2-Debug/10_HtmlDemo_autogen/timestamp	52cd78b73502131f
+353	2142	1722963125815822739	CMakeFiles/10_HtmlDemo.dir/10_HtmlDemo_autogen/mocs_compilation.cpp.o	b7c43a66550c7819
+353	2176	1722963125815822739	CMakeFiles/10_HtmlDemo.dir/main.cpp.o	6c7bedf6f5a6f6c5
+24	1833	1722963179445052318	CMakeFiles/10_HtmlDemo.dir/mainwindow.cpp.o	4a96f2e5d2d51d1c
+1833	2229	1722963181257093923	10_HtmlDemo	23fd33da8b362f57
+9	44	1722963494295744188	10_HtmlDemo_autogen/timestamp	52cd78b73502131f
+9	44	1722963494295744188	10_HtmlDemo_autogen/mocs_compilation.cpp	52cd78b73502131f
+9	44	1722963494295744188	/home/alashkar/Desktop/Github/Qt/10_HtmlDemo/build/Desktop_Qt_6_7_2-Debug/10_HtmlDemo_autogen/timestamp	52cd78b73502131f
+9	44	1722963494295744188	/home/alashkar/Desktop/Github/Qt/10_HtmlDemo/build/Desktop_Qt_6_7_2-Debug/10_HtmlDemo_autogen/mocs_compilation.cpp	52cd78b73502131f
+44	73	1722963494359743813	10_HtmlDemo_autogen/EWIEGA46WW/qrc_resources.cpp	c1552f34e5f306b
+44	73	1722963494359743813	/home/alashkar/Desktop/Github/Qt/10_HtmlDemo/build/Desktop_Qt_6_7_2-Debug/10_HtmlDemo_autogen/EWIEGA46WW/qrc_resources.cpp	c1552f34e5f306b
+74	421	1722963494363743789	CMakeFiles/10_HtmlDemo.dir/10_HtmlDemo_autogen/EWIEGA46WW/qrc_resources.cpp.o	c49c9c18ffd6084c
+73	2320	1722963494359743813	CMakeFiles/10_HtmlDemo.dir/mainwindow.cpp.o	4a96f2e5d2d51d1c
+2320	2840	1722963496607730757	10_HtmlDemo	befe2256c56b94b4

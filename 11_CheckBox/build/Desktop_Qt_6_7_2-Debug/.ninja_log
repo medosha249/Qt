@@ -1,0 +1,17 @@
+# ninja log v6
+4	473	1722964086498128294	11_CheckBox_autogen/timestamp	cc7719d4fb8cbce9
+4	473	1722964086498128294	11_CheckBox_autogen/mocs_compilation.cpp	cc7719d4fb8cbce9
+4	473	1722964086498128294	/home/alashkar/Desktop/Github/Qt/11_CheckBox/build/Desktop_Qt_6_7_2-Debug/11_CheckBox_autogen/timestamp	cc7719d4fb8cbce9
+4	473	1722964086498128294	/home/alashkar/Desktop/Github/Qt/11_CheckBox/build/Desktop_Qt_6_7_2-Debug/11_CheckBox_autogen/mocs_compilation.cpp	cc7719d4fb8cbce9
+476	3255	1722964086506128380	CMakeFiles/11_CheckBox.dir/mainwindow.cpp.o	36c6597aa09ed4d3
+476	3679	1722964086506128380	CMakeFiles/11_CheckBox.dir/main.cpp.o	dea747759250538e
+476	3750	1722964086506128380	CMakeFiles/11_CheckBox.dir/11_CheckBox_autogen/mocs_compilation.cpp.o	4e55fb28411f6e89
+3750	4178	1722964089782163758	11_CheckBox	22a81d2e5b532fe7
+9	442	1722964251432087956	11_CheckBox_autogen/timestamp	cc7719d4fb8cbce9
+9	442	1722964251432087956	11_CheckBox_autogen/mocs_compilation.cpp	cc7719d4fb8cbce9
+9	442	1722964251432087956	/home/alashkar/Desktop/Github/Qt/11_CheckBox/build/Desktop_Qt_6_7_2-Debug/11_CheckBox_autogen/timestamp	cc7719d4fb8cbce9
+9	442	1722964251432087956	/home/alashkar/Desktop/Github/Qt/11_CheckBox/build/Desktop_Qt_6_7_2-Debug/11_CheckBox_autogen/mocs_compilation.cpp	cc7719d4fb8cbce9
+442	2892	1722964251440088059	CMakeFiles/11_CheckBox.dir/11_CheckBox_autogen/mocs_compilation.cpp.o	4e55fb28411f6e89
+443	2917	1722964251440088059	CMakeFiles/11_CheckBox.dir/mainwindow.cpp.o	36c6597aa09ed4d3
+443	3477	1722964251440088059	CMakeFiles/11_CheckBox.dir/main.cpp.o	dea747759250538e
+3477	3900	1722964254472127148	11_CheckBox	22a81d2e5b532fe7

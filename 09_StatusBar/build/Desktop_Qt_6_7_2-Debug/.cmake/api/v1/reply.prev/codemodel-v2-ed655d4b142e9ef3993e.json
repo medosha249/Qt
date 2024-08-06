@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9a5703b5ea47d6261c47.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "09_StatusBar",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "09_StatusBar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09_StatusBar-Debug-c934f800612b39bad694.json",
+					"name" : "09_StatusBar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "09_StatusBar_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09_StatusBar_autogen-Debug-828dddbc01eb6dc85687.json",
+					"name" : "09_StatusBar_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "09_StatusBar_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-09_StatusBar_autogen_timestamp_deps-Debug-16f2d3a554c11c5e0ffa.json",
+					"name" : "09_StatusBar_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alashkar/Desktop/Github/Qt/09_StatusBar/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/alashkar/Desktop/Github/Qt/09_StatusBar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

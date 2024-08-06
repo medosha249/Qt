@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/alashkar/Desktop/Github/Qt/13_QActions/build/Desktop_Qt_6_7_2-Debug/13_QActions_autogen",
+	"CMAKE_BINARY_DIR" : "/home/alashkar/Desktop/Github/Qt/13_QActions/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/alashkar/Desktop/Github/Qt/13_QActions/build/Desktop_Qt_6_7_2-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/alashkar/Desktop/Github/Qt/13_QActions",
+	"CMAKE_SOURCE_DIR" : "/home/alashkar/Desktop/Github/Qt/13_QActions",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/alashkar/Desktop/Github/Qt/13_QActions/build/Desktop_Qt_6_7_2-Debug/13_QActions_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/alashkar/Desktop/Github/Qt/13_QActions/new.png",
+		"/home/alashkar/Desktop/Github/Qt/13_QActions/Close.png",
+		"/home/alashkar/Desktop/Github/Qt/13_QActions/file.jpg"
+	],
+	"LOCK_FILE" : "/home/alashkar/Desktop/Github/Qt/13_QActions/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/13_QActions_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "/home/alashkar/Qt/6.7.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/alashkar/Desktop/Github/Qt/13_QActions/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/13_QActions_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/alashkar/Desktop/Github/Qt/13_QActions/Resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

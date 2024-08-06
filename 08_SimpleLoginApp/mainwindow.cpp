@@ -40,4 +40,3 @@ void MainWindow::on_login_clicked()
         nDialog->show();
     }
 }
-
