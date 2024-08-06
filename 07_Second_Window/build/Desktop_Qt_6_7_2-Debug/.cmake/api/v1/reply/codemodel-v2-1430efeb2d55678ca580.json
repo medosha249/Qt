@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a3f33fe33251ce7aea92.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "07_Second_Window",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "07_Second_Window::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_Second_Window-Debug-51d0b9a1ce8dc950b266.json",
+					"name" : "07_Second_Window",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_Second_Window_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_Second_Window_autogen-Debug-c5c8942106e15ab4e1fe.json",
+					"name" : "07_Second_Window_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_Second_Window_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_Second_Window_autogen_timestamp_deps-Debug-f0e565d9bac3ba79118a.json",
+					"name" : "07_Second_Window_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alashkar/Desktop/Github/Qt/07_Second_Window/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/alashkar/Desktop/Github/Qt/07_Second_Window"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

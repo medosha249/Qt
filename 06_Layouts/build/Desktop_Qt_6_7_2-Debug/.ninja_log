@@ -1,0 +1,21 @@
+# ninja log v6
+1951	2347	1722882332115389966	Layouts	680022972d5f14c2
+25	1951	1722882330187389638	CMakeFiles/Layouts.dir/mainwindow.cpp.o	8f64b1c0d4632624
+412	2745	1722880103491900806	CMakeFiles/Layouts.dir/main.cpp.o	f886bf54239ee998
+412	2636	1722880103491900806	CMakeFiles/Layouts.dir/Layouts_autogen/mocs_compilation.cpp.o	737cd2be62fac2cd
+4	25	1722882330167389635	/home/alashkar/Desktop/Github/Qt/Layouts/build/Desktop_Qt_6_7_2-Debug/Layouts_autogen/mocs_compilation.cpp	caea777037326431
+4	25	1722882330167389635	/home/alashkar/Desktop/Github/Qt/Layouts/build/Desktop_Qt_6_7_2-Debug/Layouts_autogen/timestamp	caea777037326431
+4	25	1722882330167389635	Layouts_autogen/mocs_compilation.cpp	caea777037326431
+4	25	1722882330167389635	Layouts_autogen/timestamp	caea777037326431
+7	35	1722882370155396675	Layouts_autogen/timestamp	caea777037326431
+7	35	1722882370155396675	Layouts_autogen/mocs_compilation.cpp	caea777037326431
+7	35	1722882370155396675	/home/alashkar/Desktop/Github/Qt/Layouts/build/Desktop_Qt_6_7_2-Debug/Layouts_autogen/timestamp	caea777037326431
+7	35	1722882370155396675	/home/alashkar/Desktop/Github/Qt/Layouts/build/Desktop_Qt_6_7_2-Debug/Layouts_autogen/mocs_compilation.cpp	caea777037326431
+36	1896	1722882370183396680	CMakeFiles/Layouts.dir/mainwindow.cpp.o	8f64b1c0d4632624
+1896	2289	1722882372043397020	Layouts	680022972d5f14c2
+5	26	1722882434171408945	Layouts_autogen/timestamp	caea777037326431
+5	26	1722882434171408945	Layouts_autogen/mocs_compilation.cpp	caea777037326431
+5	26	1722882434171408945	/home/alashkar/Desktop/Github/Qt/Layouts/build/Desktop_Qt_6_7_2-Debug/Layouts_autogen/timestamp	caea777037326431
+5	26	1722882434171408945	/home/alashkar/Desktop/Github/Qt/Layouts/build/Desktop_Qt_6_7_2-Debug/Layouts_autogen/mocs_compilation.cpp	caea777037326431
+26	1885	1722882434191408949	CMakeFiles/Layouts.dir/mainwindow.cpp.o	8f64b1c0d4632624
+1885	2290	1722882436051409323	Layouts	680022972d5f14c2

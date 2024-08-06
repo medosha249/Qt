@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_03MessageBox_FILE /home/alashkar/Desktop/Github/Qt/03MessageBox/build/Desktop_Qt_6_7_2-Debug/03MessageBox)
+set(__QT_DEPLOY_TARGET_03MessageBox_TYPE EXECUTABLE)

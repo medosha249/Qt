@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d9de204aec9572e19699.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "03MessageBox",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "03MessageBox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03MessageBox-Debug-addf89c543bed86a3dbe.json",
+					"name" : "03MessageBox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03MessageBox_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03MessageBox_autogen-Debug-dd87ec056cfceafb4817.json",
+					"name" : "03MessageBox_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03MessageBox_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03MessageBox_autogen_timestamp_deps-Debug-39f334d3e1c066a97b37.json",
+					"name" : "03MessageBox_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/alashkar/Desktop/Github/Qt/03MessageBox/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/alashkar/Desktop/Github/Qt/03MessageBox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

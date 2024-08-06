@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_03Signals_Slots_FILE /home/alashkar/Desktop/Github/Qt/03Signals_Slots/build/Desktop_Qt_6_7_2-Debug/03Signals_Slots)
+set(__QT_DEPLOY_TARGET_03Signals_Slots_TYPE EXECUTABLE)

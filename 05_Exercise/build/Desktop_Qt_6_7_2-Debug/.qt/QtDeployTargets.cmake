@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_05_Exercise_FILE /home/alashkar/Desktop/Github/Qt/05_Exercise/build/Desktop_Qt_6_7_2-Debug/05_Exercise)
+set(__QT_DEPLOY_TARGET_05_Exercise_TYPE EXECUTABLE)

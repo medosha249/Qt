@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_08_SimpleLoginApp_FILE /home/alashkar/Desktop/Github/Qt/08_SimpleLoginApp/build/Desktop_Qt_6_7_2-Debug/08_SimpleLoginApp)
+set(__QT_DEPLOY_TARGET_08_SimpleLoginApp_TYPE EXECUTABLE)

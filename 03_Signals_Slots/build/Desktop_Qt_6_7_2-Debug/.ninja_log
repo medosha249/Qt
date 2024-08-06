@@ -1,0 +1,21 @@
+# ninja log v6
+4	438	1722872103807562926	03Signals_Slots_autogen/timestamp	b4230cd68c9bdfb5
+4	438	1722872103807562926	03Signals_Slots_autogen/mocs_compilation.cpp	b4230cd68c9bdfb5
+4	438	1722872103807562926	/home/alashkar/Desktop/Github/Qt/03Signals_Slots/build/Desktop_Qt_6_7_2-Debug/03Signals_Slots_autogen/timestamp	b4230cd68c9bdfb5
+4	438	1722872103807562926	/home/alashkar/Desktop/Github/Qt/03Signals_Slots/build/Desktop_Qt_6_7_2-Debug/03Signals_Slots_autogen/mocs_compilation.cpp	b4230cd68c9bdfb5
+441	2788	1722872103815563106	CMakeFiles/03Signals_Slots.dir/03Signals_Slots_autogen/mocs_compilation.cpp.o	4792ee07d1dff557
+442	2982	1722872103819563195	CMakeFiles/03Signals_Slots.dir/main.cpp.o	8702fda0b18aff2
+442	3034	1722872103819563195	CMakeFiles/03Signals_Slots.dir/mainwindow.cpp.o	e49469f1f4e77cc0
+3034	3489	1722872106411621389	03Signals_Slots	b10f287f9fd41970
+5	27	1722872135623519882	03Signals_Slots_autogen/timestamp	b4230cd68c9bdfb5
+5	27	1722872135623519882	03Signals_Slots_autogen/mocs_compilation.cpp	b4230cd68c9bdfb5
+5	27	1722872135623519882	/home/alashkar/Desktop/Github/Qt/03Signals_Slots/build/Desktop_Qt_6_7_2-Debug/03Signals_Slots_autogen/timestamp	b4230cd68c9bdfb5
+5	27	1722872135623519882	/home/alashkar/Desktop/Github/Qt/03Signals_Slots/build/Desktop_Qt_6_7_2-Debug/03Signals_Slots_autogen/mocs_compilation.cpp	b4230cd68c9bdfb5
+27	1934	1722872135643519574	CMakeFiles/03Signals_Slots.dir/mainwindow.cpp.o	e49469f1f4e77cc0
+1934	2327	1722872137551490304	03Signals_Slots	b10f287f9fd41970
+5	32	1722872373309492137	03Signals_Slots_autogen/timestamp	b4230cd68c9bdfb5
+5	32	1722872373309492137	03Signals_Slots_autogen/mocs_compilation.cpp	b4230cd68c9bdfb5
+5	32	1722872373309492137	/home/alashkar/Desktop/Github/Qt/03Signals_Slots/build/Desktop_Qt_6_7_2-Debug/03Signals_Slots_autogen/timestamp	b4230cd68c9bdfb5
+5	32	1722872373309492137	/home/alashkar/Desktop/Github/Qt/03Signals_Slots/build/Desktop_Qt_6_7_2-Debug/03Signals_Slots_autogen/mocs_compilation.cpp	b4230cd68c9bdfb5
+32	2376	1722872373337492062	CMakeFiles/03Signals_Slots.dir/mainwindow.cpp.o	e49469f1f4e77cc0
+2376	2839	1722872375681485990	03Signals_Slots	b10f287f9fd41970
